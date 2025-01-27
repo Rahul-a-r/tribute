@@ -1,2 +1,2 @@
 # tribute
-This is ree code camp tribute page
+This is free code camp tribute page
